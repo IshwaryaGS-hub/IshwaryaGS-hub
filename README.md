@@ -1,5 +1,5 @@
 - Hi!..I'm Ishwarya
-- 💬 Ask me about MERN
+- 💬 Ask me about MERN,Python,django.
 - 🌱 I’m currently learning python
 - 📫Reach me at gishwaryafs@gmail.com
 

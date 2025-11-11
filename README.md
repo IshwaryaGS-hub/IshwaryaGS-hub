@@ -43,6 +43,7 @@ I have experience deploying full-stack applications on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gishwarya&layout=compact&langs_count=10&theme=radical&hide_border=false&custom_title=Top%20Languages%20🧠&card_width=400" width="48%" />
 </p>
 
+
 ### My Key Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -61,6 +62,8 @@ I have experience deploying full-stack applications on:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+
+----
 
 ✨ *“Code. Learn. Build. Repeat.”* ✨  
 

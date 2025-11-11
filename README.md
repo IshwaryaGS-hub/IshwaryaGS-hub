@@ -27,6 +27,7 @@
 
 
 ---
+
 ### ☁️ Deployment Platforms
 
 I have experience deploying full-stack applications on:  
@@ -37,22 +38,6 @@ I have experience deploying full-stack applications on:
 
 ---
 
-### GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gishwarya&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gishwarya&layout=compact&langs_count=10&theme=radical&hide_border=false&custom_title=Top%20Languages%20🧠&card_width=400" width="48%" />
-</p>
-
-
-### My Key Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
----
 ### 🌐 Connect with me  
 <a href="https://linkedin.com/in/ishwarya-g-027610283" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

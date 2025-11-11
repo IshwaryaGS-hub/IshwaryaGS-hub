@@ -1,5 +1,5 @@
 
-# Hi, I'm Ishwarya! 💻 **Full Stack Enthusiast** | MERN | Python | Django   
+# Hi, I'm Ishwarya! 💻 **Full Stack Enthusiast** | MERN | Reactjs | Python | Django   
 
 💻 **Full Stack Developer in the making**  
 🚀 Passionate about building web applications with **MERN**, **Python**, and **Django**  
@@ -21,6 +21,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+### ☁️ Deployment Platforms
+
+I have experience deploying full-stack applications on:  
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 

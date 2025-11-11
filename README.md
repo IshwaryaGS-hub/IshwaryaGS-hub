@@ -43,7 +43,7 @@ I have experience deploying full-stack applications on:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/gishwaryaGS-hub" target="_blank">
+<a href="https://github.com/IshwaryaGS-hub" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 

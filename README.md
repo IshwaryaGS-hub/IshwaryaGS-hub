@@ -31,9 +31,11 @@
 
 I have experience deploying full-stack applications on:  
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gishwarya&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gishwarya&layout=compact&langs_count=10&theme=radical&hide_border=false&custom_title=Top%20Languages%20🧠" width="48%" />
+</p>
+
 
 ---
 

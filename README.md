@@ -1,6 +1,6 @@
 
 # Hi, I'm Ishwarya! 
-**Full Stack Enthusiast** | MERN | Reactjs | Python | Django   
+# **Full Stack Enthusiast** | MERN | Reactjs | Python | Django   
 
 💻 **Full Stack Developer in the making**  
 🚀 Passionate about building web applications with **MERN**, **Python**, and **Django**  

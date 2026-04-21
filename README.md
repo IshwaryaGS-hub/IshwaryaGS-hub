@@ -52,6 +52,9 @@ I have experience deploying full-stack applications on:
 ----
 
 ✨ *“Code. Learn. Build. Repeat.”* ✨  
+-------
+
+* “Build your own ideas. Don’t mirror someone else’s work.” *
 
 <!---
 gishwarya/gishwarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

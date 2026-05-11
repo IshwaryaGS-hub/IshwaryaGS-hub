@@ -5,7 +5,7 @@
 💻 **Full Stack Developer in the making**  
 🚀 Passionate about building web applications with **MERN**, **Python**, and **Django**  
 🌱 Currently learning **Advanced Python** and exploring **Backend Development**  
-💬 Ask me about **MERN**, **Python**, or **Django**  
+💬 Ask me about **MERN**, **Redux** , **Python** , **Django**  
 📫 Reach me at: **[gishwaryafs@gmail.com](mailto:gishwaryafs@gmail.com)**  
 
 ---
